@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '37572'
     url: http://www.gutenberg.org/2009/agents/37572
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14481#The-Function-of-the-Poet-and-Other-Essays
 gutenberg_issued: '2004-12-27'
 gutenberg_type: Text
 identifiers:
