@@ -1,0 +1,35 @@
+_repo: The-Function-of-the-Poet-and-Other-Essays_14481
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lowell, James Russell
+    aliases:
+    - Wilbur, Homer
+    - Meliboeus-Hipponax
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '456'
+    url: http://www.gutenberg.org/2009/agents/456
+    wikipedia: http://en.wikipedia.org/wiki/James_Russell_Lowell
+  editor:
+    agent_name: Mordell, Albert
+    birthdate: 1885
+    gutenberg_agent_id: '37572'
+    url: http://www.gutenberg.org/2009/agents/37572
+description: ''
+gutenberg_issued: '2004-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- History and criticism'
+- !lcc 'PN'
+title: The Function of the Poet, and Other Essays
+url: http://www.gutenberg.org/ebooks/14481
